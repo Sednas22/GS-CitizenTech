@@ -1,0 +1,101 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4148780A-7D11-9982-38CC-9BF730553B35" name="PESSOAS_USUARIAS">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>C7B1FC07-42EC-18FD-7EEF-28EB92FB34AD</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_usuario" id="9439BF14-1041-2DFC-1E5E-2EB3CC42C8E1">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>5626DB61-4624-2599-54F7-B96F69D283D9</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nome" id="E95375E5-8917-7753-312A-B953E6A3C30C">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>C86F6E21-83B1-7BD9-A3B2-5CDFCB9F4C0F</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="usa_vibracao" id="98FB75B0-BDCB-01F4-8618-A24E98CD3903">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>7CB82B92-4846-783B-FE5B-31A554855573</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<listOfValues>
+<valueDef value="Falso" description=""/>
+<valueDef value="Verdadeiro" description=""/>
+</listOfValues>
+<defaultValue>Verdadeiro</defaultValue>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="usa_luz" id="84F5EDD0-622A-1696-27AC-FF984F8F39EC">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>37A729FF-4FE3-5E30-B287-3D18FBDAAC79</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="usa_audio" id="0F3B358F-3383-00ED-5008-C248BC8F36CD">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>9D542495-C62F-2590-CFE6-341531BC9C37</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dt_cadastro" id="ED9C5DBE-B196-E839-6206-F8CD6C334169">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>DC837325-7471-490E-D7B0-B6DE55C71F66</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="239E3FB6-A8E5-66A7-A456-D335C50E7604" name="PESSOAS_USUARIAS_PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>D149890B-DA18-89CA-2DB0-3100A1273B11</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9439BF14-1041-2DFC-1E5E-2EB3CC42C8E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

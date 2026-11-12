@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="363B9913-EFFD-CC7C-D932-4291F8E5F048" containerWithKeyObject="6EC4FAD4-0ACB-33F0-B6A3-D3FB08D8767D" localFKIndex="6EF5E7C8-828E-D8CE-84D2-694D7DC292A6" name="KITS_PULSO_TRANSMISSORES_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<referredTableLongName>TRANSMISSORES</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>2B7D852E-B5AB-6EBD-53F4-9FB38785E59E</referredTableID>
+<keyObject>9AAA25E0-C046-3CB9-2266-613819ECC5CD</keyObject>
+<referredKeyID>9AAA25E0-C046-3CB9-2266-613819ECC5CD</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_transmissor</refColNames>
+<transferable>false</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

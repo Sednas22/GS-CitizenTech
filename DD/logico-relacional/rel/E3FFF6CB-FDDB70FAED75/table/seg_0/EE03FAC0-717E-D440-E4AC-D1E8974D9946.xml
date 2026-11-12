@@ -1,0 +1,97 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="EE03FAC0-717E-D440-E4AC-D1E8974D9946" name="CHAMADAS">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>6530304D-3269-2930-393A-A0D9B86CB192</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_chamada" id="32B2BBBE-1FF3-836B-DEFE-97A7CB254F94">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>9CCE7A4A-D19F-9B97-B9AD-353A15177C34</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="data_hora_disparo" id="5EB1EDB9-C7C0-38F9-23FB-7E5AF4E20448">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>25B2E7CB-580A-991F-47F3-2FFE7BF414FA</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="data_hora_confirmacao" id="D7139449-6F18-9D2F-F6D3-BB47409409F0">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>F07074BE-A972-C2D7-BBF3-A331079DE1B1</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status" id="5CDC4580-2907-1B95-1AAB-2D79496561F4">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>CAC4B2B4-B626-7EEA-2922-9F5E78B5CEB7</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ATENDIMENTOS_id_atendimento" id="9E4703A0-7138-C143-0FDC-511CEE763AAF">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>5B32ABB0-AB54-10FC-8200-50E572F992B5</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="8523E3BD-E026-E6EC-AD6F-993A0C2C6D82" referredColumn="AA925F2F-D066-CC41-8D94-56B94AABDDFB"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D9FEF292-E3E3-ABA9-6584-D501D9BA87E1" name="CHAMADAS_PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>F64247EC-D278-3056-4867-8BF477F52236</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="32B2BBBE-1FF3-836B-DEFE-97A7CB254F94"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="199FAE60-9183-F229-77FC-ACFCF1376B76" name="CHAMADAS_ATENDIMENTOS_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>CD06E9B3-FF99-C507-3220-82A4C80ED719</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E4703A0-7138-C143-0FDC-511CEE763AAF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

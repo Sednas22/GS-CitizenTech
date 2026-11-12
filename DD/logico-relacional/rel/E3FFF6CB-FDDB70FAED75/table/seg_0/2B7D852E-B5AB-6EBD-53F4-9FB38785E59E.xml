@@ -1,0 +1,121 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="2B7D852E-B5AB-6EBD-53F4-9FB38785E59E" name="TRANSMISSORES">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>B66338F8-936E-190E-03B1-E358F3EB34BA</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_transmissor" id="E1752369-F9CB-2253-FE6C-452850FDE0E2">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>188D3C1C-88EA-62DF-8722-7DB44F1E9138</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mac_transmissor" id="BC8F0576-731F-CAB1-D5AF-69A50E0388C7">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>6F577B19-FA40-D119-7FB2-6E9C489ECB88</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>17</dataTypeSize>
+<ownDataTypeParameters>17,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nivel_bateria" id="04B74FA5-BEC7-0059-12D3-1AC1647F6980">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>D1674C76-C899-7DF2-EC22-DAAC88450C7E</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status" id="D8CCBF24-0BCC-9877-B842-2B82F8FD672F">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>5E108FB3-51EC-52C5-4296-834B1A610B80</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="KITS_PULSO_id_kit" id="9DB69627-64C8-2AC2-EBCB-CEEFB2C848E1">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>B73BD5B0-246B-19DA-A6C9-0E8DEC62F886</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="E7935232-7474-0FEB-9AE7-41B7E90F19DF" referredColumn="4A1AC8FC-99F4-7D94-3612-91327C77C4A3"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="9AAA25E0-C046-3CB9-2266-613819ECC5CD" name="TRANSMISSORES_PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>1264E063-065A-0710-1620-8D325F824963</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E1752369-F9CB-2253-FE6C-452850FDE0E2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2F0DFA35-2894-509F-25AA-7FA0285ECB61" name="TRANSMISSORES_mac_transmissor_UN">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>BCB59114-D402-9D64-EEEA-991D69D47D74</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BC8F0576-731F-CAB1-D5AF-69A50E0388C7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FAA7223B-11ED-4616-A074-D2CBE2EED9E2" name="TRANSMISSORES__IDX">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="9DB69627-64C8-2AC2-EBCB-CEEFB2C848E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F13F4F90-354C-E6F5-AB59-25C1C9C6A63A" name="TRANSMISSORES_KITS_PULSO_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9DB69627-64C8-2AC2-EBCB-CEEFB2C848E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

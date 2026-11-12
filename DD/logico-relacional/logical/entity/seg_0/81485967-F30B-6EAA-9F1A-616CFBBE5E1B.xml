@@ -1,0 +1,98 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="81485967-F30B-6EAA-9F1A-616CFBBE5E1B" name="ESTABELECIMENTOS">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:52:43 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_estabelecimento" id="42FC44E5-F388-DD0F-A129-45C6926497EA">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:55:35 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nome" id="2E71BFAF-56AB-C894-89CF-7C32763127A4">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:55:35 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tipo" id="FFA6477C-3D4D-E078-406D-308B9C14FBD2">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:55:36 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cidade" id="D8573D73-9207-7037-4D08-093EC26451DE">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:55:36 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="uf" id="9C930E28-2D9C-A759-15C7-40775BB04AE8">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:55:36 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>2</dataTypeSize>
+<ownDataTypeParameters>2,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="3AD4C446-2CDF-A267-92C5-FCB12D67767F" name="ESTABELECIMENTOS PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 07:03:21 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<newElementsIDs>42FC44E5-F388-DD0F-A129-45C6926497EA</newElementsIDs>
+<usedAttributes>
+<attributeRef>42FC44E5-F388-DD0F-A129-45C6926497EA</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

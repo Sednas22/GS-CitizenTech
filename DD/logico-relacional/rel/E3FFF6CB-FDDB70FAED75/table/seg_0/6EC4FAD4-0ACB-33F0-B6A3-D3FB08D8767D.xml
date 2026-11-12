@@ -1,0 +1,160 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="6EC4FAD4-0ACB-33F0-B6A3-D3FB08D8767D" name="KITS_PULSO">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>0B512E40-8335-C638-7E5E-3A2D27DBD76C</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_kit" id="4A1AC8FC-99F4-7D94-3612-91327C77C4A3">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>D0A77403-7A43-8463-4A9D-BE7B4BE81C18</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="dt_aquisicao" id="CEC8D016-6D20-0650-8300-D97198159F2C">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>46BE0D57-18C3-81C0-B16F-AF71B5197C94</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status" id="D3B54874-5B80-B0B5-0CD7-A34C11258358">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>D908171F-56DD-7152-876A-19A2027F2830</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PULSEIRAS_id_pulseira" id="CC2E0CE8-AAB3-DFCC-9DA6-8BAE3298DD0A">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>6E48A0A9-7C94-EA6B-0CEB-0133B659EA26</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7104402F-2F58-DAA1-D540-F739BF7D4560" referredColumn="2048D981-E97A-7F04-89CD-2D4A3251A8EB"/>
+</associations>
+</Column>
+<Column name="TRANSMISSORES_id_transmissor" id="9D86CD4D-878D-1D96-6D79-2BED724E7D85">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>CF5945A0-849B-259D-581B-2BB404C97BDD</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="363B9913-EFFD-CC7C-D932-4291F8E5F048" referredColumn="E1752369-F9CB-2253-FE6C-452850FDE0E2"/>
+</associations>
+</Column>
+<Column name="PESSOAS_USUARIAS_id_usuario" id="52CA1229-C21F-543A-595E-1408361522E4">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>3AD924FF-2C19-C2B4-96F0-67DB97B9A912</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="68F3CFFA-668B-7060-737C-92818D16C81B" referredColumn="9439BF14-1041-2DFC-1E5E-2EB3CC42C8E1"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1AB8BE9B-3089-196C-203F-EA19A824E654" name="KITS_PULSO_PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>F6C38AA6-B397-02AD-9772-2475406A3293</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4A1AC8FC-99F4-7D94-3612-91327C77C4A3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="ED93E12A-2AF5-B0E8-01DD-A95A6086B345" name="KITS_PULSO__IDX">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>38A80A23-8845-FBB1-737A-8B3E5C2CD054</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="CC2E0CE8-AAB3-DFCC-9DA6-8BAE3298DD0A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="03AC0403-103E-679A-08B6-E64ED6F45CC4" name="KITS_PULSO__IDXv1">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="9D86CD4D-878D-1D96-6D79-2BED724E7D85"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="474C2622-86B0-12DA-6AC3-32BDF0DDA10C" name="KITS_PULSO_PULSEIRAS_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>38A80A23-8845-FBB1-737A-8B3E5C2CD054</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CC2E0CE8-AAB3-DFCC-9DA6-8BAE3298DD0A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6EF5E7C8-828E-D8CE-84D2-694D7DC292A6" name="KITS_PULSO_TRANSMISSORES_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9D86CD4D-878D-1D96-6D79-2BED724E7D85"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AD1F69FE-2A54-E023-95D0-6403F99EE259" name="KITS_PULSO_PESSOAS_USUARIAS_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>975658FA-BB4B-852C-C767-C6734D767497</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="52CA1229-C21F-543A-595E-1408361522E4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

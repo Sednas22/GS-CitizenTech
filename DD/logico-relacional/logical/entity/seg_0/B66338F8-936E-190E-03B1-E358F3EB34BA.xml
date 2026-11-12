@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B66338F8-936E-190E-03B1-E358F3EB34BA" name="TRANSMISSORES">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:07:55 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_transmissor" id="188D3C1C-88EA-62DF-8722-7DB44F1E9138">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:08:09 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="mac_transmissor" id="6F577B19-FA40-D119-7FB2-6E9C489ECB88">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:25:37 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>17</dataTypeSize>
+<ownDataTypeParameters>17,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nivel_bateria" id="D1674C76-C899-7DF2-EC22-DAAC88450C7E">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:08:09 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="status" id="5E108FB3-51EC-52C5-4296-834B1A610B80">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:08:10 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_kit" id="B73BD5B0-246B-19DA-A6C9-0E8DEC62F886">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:29:34 UTC</createdTime>
+<generatorID>8DA4BCF4-67E1-14AA-BBD2-A99A75F46BD2</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<referedAttribute>D0A77403-7A43-8463-4A9D-BE7B4BE81C18</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="1264E063-065A-0710-1620-8D325F824963" name="TRANSMISSORES PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:08:53 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<newElementsIDs>188D3C1C-88EA-62DF-8722-7DB44F1E9138</newElementsIDs>
+<usedAttributes>
+<attributeRef>188D3C1C-88EA-62DF-8722-7DB44F1E9138</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="BCB59114-D402-9D64-EEEA-991D69D47D74" name="Key_2">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 07:39:06 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<newElementsIDs>6F577B19-FA40-D119-7FB2-6E9C489ECB88</newElementsIDs>
+<usedAttributes>
+<attributeRef>6F577B19-FA40-D119-7FB2-6E9C489ECB88</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="68F3CFFA-668B-7060-737C-92818D16C81B" containerWithKeyObject="6EC4FAD4-0ACB-33F0-B6A3-D3FB08D8767D" localFKIndex="AD1F69FE-2A54-E023-95D0-6403F99EE259" name="KITS_PULSO_PESSOAS_USUARIAS_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>975658FA-BB4B-852C-C767-C6734D767497</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<referredTableLongName>PESSOAS_USUARIAS</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>4148780A-7D11-9982-38CC-9BF730553B35</referredTableID>
+<keyObject>239E3FB6-A8E5-66A7-A456-D335C50E7604</keyObject>
+<referredKeyID>239E3FB6-A8E5-66A7-A456-D335C50E7604</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_usuario</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="819D6322-B44F-EFDC-B340-48C67954540B" name="PULSEIRAS">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:05:17 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_pulseira" id="31BFCF87-D224-7154-C780-0ACF9473F399">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:05:27 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="mac_pulseira" id="A92D281F-A65C-D28C-EEA2-BF0F48406E1D">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:27:54 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>17</dataTypeSize>
+<ownDataTypeParameters>17,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nivel_bateria" id="6680405D-E155-2CF7-8A29-A3970404CF95">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:05:28 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="status" id="16DB10EE-1D01-8795-B802-09E57FF644DA">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:05:28 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_kit" id="DA47A165-724A-20F4-3E00-CAE0437A6758">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:29:09 UTC</createdTime>
+<generatorID>38A80A23-8845-FBB1-737A-8B3E5C2CD054</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<referedAttribute>D0A77403-7A43-8463-4A9D-BE7B4BE81C18</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="29E1A7D4-D57F-CE6C-3477-987CFE045C07" name="PULSEIRAS PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 06:05:31 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<newElementsIDs>31BFCF87-D224-7154-C780-0ACF9473F399</newElementsIDs>
+<usedAttributes>
+<attributeRef>31BFCF87-D224-7154-C780-0ACF9473F399</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="1A907520-D5AB-8845-EAE7-31636447FF81" name="Key_2">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 07:38:49 UTC</createdTime>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<engineerTo>
+<item key="E3FFF6CB-EDDE-D96F-C174-FDDB70FAED75" value="true"/>
+</engineerTo>
+<newElementsIDs>A92D281F-A65C-D28C-EEA2-BF0F48406E1D</newElementsIDs>
+<usedAttributes>
+<attributeRef>A92D281F-A65C-D28C-EEA2-BF0F48406E1D</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

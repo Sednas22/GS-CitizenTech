@@ -1,0 +1,101 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="EF137B98-587D-D4B2-BB92-7B2D2AEE2F93" name="ATENDIMENTOS">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>B201B9CB-2A31-33FE-A7C9-5EC19CE267FD</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_atendimento" id="AA925F2F-D066-CC41-8D94-56B94AABDDFB">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>863F3262-461B-5C49-8291-B97C38C0AEDD</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status" id="FB94FA38-D858-FE3C-5984-BE7B1175E88C">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>486456BA-BAAD-A492-2F5A-FAF986B73D5F</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>14</dataTypeSize>
+<ownDataTypeParameters>14,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="KITS_PULSO_id_kit" id="C00129E1-FECB-20D8-8683-C012BFC62832">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>C760C42E-4682-A28D-B655-5A2580897F3B</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="6D89D59A-C891-B375-DE1A-0853F9A2D8FE" referredColumn="4A1AC8FC-99F4-7D94-3612-91327C77C4A3"/>
+</associations>
+</Column>
+<Column name="ESTABELECIMENTOS_id_estabelecimento" id="FF52E97C-4CF8-3614-0534-EDCFF709EC4E">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>9F176C56-6106-08C1-95B6-C4F24A812942</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2A4571A8-A1C8-B7AD-0987-487792EA4C0F" referredColumn="AFB003CB-0DAB-98BC-7D90-E1E9F8F6BB69"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="CF9D0324-882B-54CA-C0E7-C21AA6B4B81A" name="ATENDIMENTOS_PK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>D79C965B-5D2B-57B5-B697-57A5E5A50218</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="AA925F2F-D066-CC41-8D94-56B94AABDDFB"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="15A777F1-A9C4-0185-BCEF-8636517ADB64" name="ATENDIMENTOS_KITS_PULSO_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>59C8636F-8B5B-F0CC-FF14-D617BBD41899</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C00129E1-FECB-20D8-8683-C012BFC62832"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D86AA2A7-7715-63AD-DF24-F384DD3B21B3" name="ATENDIMENTOS_ESTABELECIMENTOS_FK">
+<createdBy>Sandes</createdBy>
+<createdTime>2026-11-12 08:00:43 UTC</createdTime>
+<generatorID>C088E8D8-5119-EEFB-8B2E-38CE6DC7E7BF</generatorID>
+<ownerDesignName>logico-relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FF52E97C-4CF8-3614-0534-EDCFF709EC4E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
