@@ -1,0 +1,362 @@
+nivel,territorio,sigla,regiao,indicador,categoria,subcategoria,valor,unidade,tabela_origem,pagina_publicacao
+UF,Rondônia,RO,Norte,pct_com_deficiencia,total,,7.1,%,Tabela 3,35
+UF,Rondônia,RO,Norte,pct_com_deficiencia,homens,,6.6,%,Tabela 3,35
+UF,Rondônia,RO,Norte,pct_com_deficiencia,mulheres,,7.5,%,Tabela 3,35
+UF,Rondônia,RO,Norte,pct_dif_funcional,enxergar,,4.2,%,Tabela 9,46
+UF,Rondônia,RO,Norte,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Rondônia,RO,Norte,pct_dif_funcional,andar,,2.2,%,Tabela 9,46
+UF,Rondônia,RO,Norte,pct_dif_funcional,pegar_objetos,,1.3,%,Tabela 9,46
+UF,Rondônia,RO,Norte,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 9,46
+UF,Acre,AC,Norte,pct_com_deficiencia,total,,7.3,%,Tabela 3,35
+UF,Acre,AC,Norte,pct_com_deficiencia,homens,,6.7,%,Tabela 3,35
+UF,Acre,AC,Norte,pct_com_deficiencia,mulheres,,8.0,%,Tabela 3,35
+UF,Acre,AC,Norte,pct_dif_funcional,enxergar,,4.7,%,Tabela 9,46
+UF,Acre,AC,Norte,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Acre,AC,Norte,pct_dif_funcional,andar,,2.1,%,Tabela 9,46
+UF,Acre,AC,Norte,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 9,46
+UF,Acre,AC,Norte,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 9,46
+UF,Amazonas,AM,Norte,pct_com_deficiencia,total,,7.0,%,Tabela 3,35
+UF,Amazonas,AM,Norte,pct_com_deficiencia,homens,,6.5,%,Tabela 3,35
+UF,Amazonas,AM,Norte,pct_com_deficiencia,mulheres,,7.5,%,Tabela 3,35
+UF,Amazonas,AM,Norte,pct_dif_funcional,enxergar,,4.7,%,Tabela 9,46
+UF,Amazonas,AM,Norte,pct_dif_funcional,ouvir,,1.0,%,Tabela 9,46
+UF,Amazonas,AM,Norte,pct_dif_funcional,andar,,1.9,%,Tabela 9,46
+UF,Amazonas,AM,Norte,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 9,46
+UF,Amazonas,AM,Norte,pct_dif_funcional,funcoes_mentais,,1.1,%,Tabela 9,46
+UF,Roraima,RR,Norte,pct_com_deficiencia,total,,5.6,%,Tabela 3,35
+UF,Roraima,RR,Norte,pct_com_deficiencia,homens,,5.3,%,Tabela 3,35
+UF,Roraima,RR,Norte,pct_com_deficiencia,mulheres,,6.0,%,Tabela 3,35
+UF,Roraima,RR,Norte,pct_dif_funcional,enxergar,,3.6,%,Tabela 9,46
+UF,Roraima,RR,Norte,pct_dif_funcional,ouvir,,1.0,%,Tabela 9,46
+UF,Roraima,RR,Norte,pct_dif_funcional,andar,,1.4,%,Tabela 9,46
+UF,Roraima,RR,Norte,pct_dif_funcional,pegar_objetos,,0.9,%,Tabela 9,46
+UF,Roraima,RR,Norte,pct_dif_funcional,funcoes_mentais,,0.9,%,Tabela 9,46
+UF,Pará,PA,Norte,pct_com_deficiencia,total,,7.3,%,Tabela 3,35
+UF,Pará,PA,Norte,pct_com_deficiencia,homens,,6.7,%,Tabela 3,35
+UF,Pará,PA,Norte,pct_com_deficiencia,mulheres,,8.0,%,Tabela 3,35
+UF,Pará,PA,Norte,pct_dif_funcional,enxergar,,4.8,%,Tabela 9,46
+UF,Pará,PA,Norte,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Pará,PA,Norte,pct_dif_funcional,andar,,2.1,%,Tabela 9,46
+UF,Pará,PA,Norte,pct_dif_funcional,pegar_objetos,,1.2,%,Tabela 9,46
+UF,Pará,PA,Norte,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 9,46
+UF,Amapá,AP,Norte,pct_com_deficiencia,total,,7.1,%,Tabela 3,35
+UF,Amapá,AP,Norte,pct_com_deficiencia,homens,,6.7,%,Tabela 3,35
+UF,Amapá,AP,Norte,pct_com_deficiencia,mulheres,,7.5,%,Tabela 3,35
+UF,Amapá,AP,Norte,pct_dif_funcional,enxergar,,4.7,%,Tabela 9,46
+UF,Amapá,AP,Norte,pct_dif_funcional,ouvir,,1.0,%,Tabela 9,46
+UF,Amapá,AP,Norte,pct_dif_funcional,andar,,1.9,%,Tabela 9,46
+UF,Amapá,AP,Norte,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 9,46
+UF,Amapá,AP,Norte,pct_dif_funcional,funcoes_mentais,,1.1,%,Tabela 9,46
+UF,Tocantins,TO,Norte,pct_com_deficiencia,total,,6.9,%,Tabela 3,35
+UF,Tocantins,TO,Norte,pct_com_deficiencia,homens,,6.5,%,Tabela 3,35
+UF,Tocantins,TO,Norte,pct_com_deficiencia,mulheres,,7.4,%,Tabela 3,35
+UF,Tocantins,TO,Norte,pct_dif_funcional,enxergar,,3.9,%,Tabela 9,46
+UF,Tocantins,TO,Norte,pct_dif_funcional,ouvir,,1.3,%,Tabela 9,46
+UF,Tocantins,TO,Norte,pct_dif_funcional,andar,,2.2,%,Tabela 9,46
+UF,Tocantins,TO,Norte,pct_dif_funcional,pegar_objetos,,1.3,%,Tabela 9,46
+UF,Tocantins,TO,Norte,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 9,46
+UF,Maranhão,MA,Nordeste,pct_com_deficiencia,total,,8.1,%,Tabela 3,35
+UF,Maranhão,MA,Nordeste,pct_com_deficiencia,homens,,7.4,%,Tabela 3,35
+UF,Maranhão,MA,Nordeste,pct_com_deficiencia,mulheres,,8.9,%,Tabela 3,35
+UF,Maranhão,MA,Nordeste,pct_dif_funcional,enxergar,,5.0,%,Tabela 9,46
+UF,Maranhão,MA,Nordeste,pct_dif_funcional,ouvir,,1.2,%,Tabela 9,46
+UF,Maranhão,MA,Nordeste,pct_dif_funcional,andar,,2.6,%,Tabela 9,46
+UF,Maranhão,MA,Nordeste,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 9,46
+UF,Maranhão,MA,Nordeste,pct_dif_funcional,funcoes_mentais,,1.4,%,Tabela 9,46
+UF,Piauí,PI,Nordeste,pct_com_deficiencia,total,,9.3,%,Tabela 3,35
+UF,Piauí,PI,Nordeste,pct_com_deficiencia,homens,,8.5,%,Tabela 3,35
+UF,Piauí,PI,Nordeste,pct_com_deficiencia,mulheres,,10.1,%,Tabela 3,35
+UF,Piauí,PI,Nordeste,pct_dif_funcional,enxergar,,5.3,%,Tabela 9,46
+UF,Piauí,PI,Nordeste,pct_dif_funcional,ouvir,,1.6,%,Tabela 9,46
+UF,Piauí,PI,Nordeste,pct_dif_funcional,andar,,3.3,%,Tabela 9,46
+UF,Piauí,PI,Nordeste,pct_dif_funcional,pegar_objetos,,1.7,%,Tabela 9,46
+UF,Piauí,PI,Nordeste,pct_dif_funcional,funcoes_mentais,,1.7,%,Tabela 9,46
+UF,Ceará,CE,Nordeste,pct_com_deficiencia,total,,8.9,%,Tabela 3,35
+UF,Ceará,CE,Nordeste,pct_com_deficiencia,homens,,8.0,%,Tabela 3,35
+UF,Ceará,CE,Nordeste,pct_com_deficiencia,mulheres,,9.8,%,Tabela 3,35
+UF,Ceará,CE,Nordeste,pct_dif_funcional,enxergar,,5.2,%,Tabela 9,46
+UF,Ceará,CE,Nordeste,pct_dif_funcional,ouvir,,1.5,%,Tabela 9,46
+UF,Ceará,CE,Nordeste,pct_dif_funcional,andar,,3.1,%,Tabela 9,46
+UF,Ceará,CE,Nordeste,pct_dif_funcional,pegar_objetos,,1.6,%,Tabela 9,46
+UF,Ceará,CE,Nordeste,pct_dif_funcional,funcoes_mentais,,1.7,%,Tabela 9,46
+UF,Rio Grande do Norte,RN,Nordeste,pct_com_deficiencia,total,,8.8,%,Tabela 3,35
+UF,Rio Grande do Norte,RN,Nordeste,pct_com_deficiencia,homens,,7.9,%,Tabela 3,35
+UF,Rio Grande do Norte,RN,Nordeste,pct_com_deficiencia,mulheres,,9.7,%,Tabela 3,35
+UF,Rio Grande do Norte,RN,Nordeste,pct_dif_funcional,enxergar,,4.8,%,Tabela 9,46
+UF,Rio Grande do Norte,RN,Nordeste,pct_dif_funcional,ouvir,,1.5,%,Tabela 9,46
+UF,Rio Grande do Norte,RN,Nordeste,pct_dif_funcional,andar,,3.0,%,Tabela 9,46
+UF,Rio Grande do Norte,RN,Nordeste,pct_dif_funcional,pegar_objetos,,1.5,%,Tabela 9,46
+UF,Rio Grande do Norte,RN,Nordeste,pct_dif_funcional,funcoes_mentais,,1.7,%,Tabela 9,46
+UF,Paraíba,PB,Nordeste,pct_com_deficiencia,total,,8.6,%,Tabela 3,35
+UF,Paraíba,PB,Nordeste,pct_com_deficiencia,homens,,7.6,%,Tabela 3,35
+UF,Paraíba,PB,Nordeste,pct_com_deficiencia,mulheres,,9.6,%,Tabela 3,35
+UF,Paraíba,PB,Nordeste,pct_dif_funcional,enxergar,,4.6,%,Tabela 9,46
+UF,Paraíba,PB,Nordeste,pct_dif_funcional,ouvir,,1.5,%,Tabela 9,46
+UF,Paraíba,PB,Nordeste,pct_dif_funcional,andar,,3.2,%,Tabela 9,46
+UF,Paraíba,PB,Nordeste,pct_dif_funcional,pegar_objetos,,1.6,%,Tabela 9,46
+UF,Paraíba,PB,Nordeste,pct_dif_funcional,funcoes_mentais,,1.7,%,Tabela 9,46
+UF,Pernambuco,PE,Nordeste,pct_com_deficiencia,total,,8.9,%,Tabela 3,35
+UF,Pernambuco,PE,Nordeste,pct_com_deficiencia,homens,,7.7,%,Tabela 3,35
+UF,Pernambuco,PE,Nordeste,pct_com_deficiencia,mulheres,,10.1,%,Tabela 3,35
+UF,Pernambuco,PE,Nordeste,pct_dif_funcional,enxergar,,5.1,%,Tabela 9,46
+UF,Pernambuco,PE,Nordeste,pct_dif_funcional,ouvir,,1.4,%,Tabela 9,46
+UF,Pernambuco,PE,Nordeste,pct_dif_funcional,andar,,3.2,%,Tabela 9,46
+UF,Pernambuco,PE,Nordeste,pct_dif_funcional,pegar_objetos,,1.6,%,Tabela 9,46
+UF,Pernambuco,PE,Nordeste,pct_dif_funcional,funcoes_mentais,,1.6,%,Tabela 9,46
+UF,Alagoas,AL,Nordeste,pct_com_deficiencia,total,,9.6,%,Tabela 3,35
+UF,Alagoas,AL,Nordeste,pct_com_deficiencia,homens,,8.2,%,Tabela 3,35
+UF,Alagoas,AL,Nordeste,pct_com_deficiencia,mulheres,,10.8,%,Tabela 3,35
+UF,Alagoas,AL,Nordeste,pct_dif_funcional,enxergar,,5.4,%,Tabela 9,46
+UF,Alagoas,AL,Nordeste,pct_dif_funcional,ouvir,,1.4,%,Tabela 9,46
+UF,Alagoas,AL,Nordeste,pct_dif_funcional,andar,,3.6,%,Tabela 9,46
+UF,Alagoas,AL,Nordeste,pct_dif_funcional,pegar_objetos,,1.9,%,Tabela 9,46
+UF,Alagoas,AL,Nordeste,pct_dif_funcional,funcoes_mentais,,1.6,%,Tabela 9,46
+UF,Sergipe,SE,Nordeste,pct_com_deficiencia,total,,8.6,%,Tabela 3,35
+UF,Sergipe,SE,Nordeste,pct_com_deficiencia,homens,,7.4,%,Tabela 3,35
+UF,Sergipe,SE,Nordeste,pct_com_deficiencia,mulheres,,9.8,%,Tabela 3,35
+UF,Sergipe,SE,Nordeste,pct_dif_funcional,enxergar,,4.6,%,Tabela 9,46
+UF,Sergipe,SE,Nordeste,pct_dif_funcional,ouvir,,1.3,%,Tabela 9,46
+UF,Sergipe,SE,Nordeste,pct_dif_funcional,andar,,3.2,%,Tabela 9,46
+UF,Sergipe,SE,Nordeste,pct_dif_funcional,pegar_objetos,,1.7,%,Tabela 9,46
+UF,Sergipe,SE,Nordeste,pct_dif_funcional,funcoes_mentais,,1.6,%,Tabela 9,46
+UF,Bahia,BA,Nordeste,pct_com_deficiencia,total,,7.9,%,Tabela 3,35
+UF,Bahia,BA,Nordeste,pct_com_deficiencia,homens,,7.0,%,Tabela 3,35
+UF,Bahia,BA,Nordeste,pct_com_deficiencia,mulheres,,8.8,%,Tabela 3,35
+UF,Bahia,BA,Nordeste,pct_dif_funcional,enxergar,,4.3,%,Tabela 9,46
+UF,Bahia,BA,Nordeste,pct_dif_funcional,ouvir,,1.3,%,Tabela 9,46
+UF,Bahia,BA,Nordeste,pct_dif_funcional,andar,,2.8,%,Tabela 9,46
+UF,Bahia,BA,Nordeste,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 9,46
+UF,Bahia,BA,Nordeste,pct_dif_funcional,funcoes_mentais,,1.5,%,Tabela 9,46
+UF,Minas Gerais,MG,Sudeste,pct_com_deficiencia,total,,7.3,%,Tabela 3,35
+UF,Minas Gerais,MG,Sudeste,pct_com_deficiencia,homens,,6.4,%,Tabela 3,35
+UF,Minas Gerais,MG,Sudeste,pct_com_deficiencia,mulheres,,8.2,%,Tabela 3,35
+UF,Minas Gerais,MG,Sudeste,pct_dif_funcional,enxergar,,3.8,%,Tabela 9,46
+UF,Minas Gerais,MG,Sudeste,pct_dif_funcional,ouvir,,1.4,%,Tabela 9,46
+UF,Minas Gerais,MG,Sudeste,pct_dif_funcional,andar,,2.8,%,Tabela 9,46
+UF,Minas Gerais,MG,Sudeste,pct_dif_funcional,pegar_objetos,,1.5,%,Tabela 9,46
+UF,Minas Gerais,MG,Sudeste,pct_dif_funcional,funcoes_mentais,,1.5,%,Tabela 9,46
+UF,Espírito Santo,ES,Sudeste,pct_com_deficiencia,total,,7.2,%,Tabela 3,35
+UF,Espírito Santo,ES,Sudeste,pct_com_deficiencia,homens,,6.4,%,Tabela 3,35
+UF,Espírito Santo,ES,Sudeste,pct_com_deficiencia,mulheres,,7.9,%,Tabela 3,35
+UF,Espírito Santo,ES,Sudeste,pct_dif_funcional,enxergar,,3.9,%,Tabela 9,46
+UF,Espírito Santo,ES,Sudeste,pct_dif_funcional,ouvir,,1.2,%,Tabela 9,46
+UF,Espírito Santo,ES,Sudeste,pct_dif_funcional,andar,,2.7,%,Tabela 9,46
+UF,Espírito Santo,ES,Sudeste,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 9,46
+UF,Espírito Santo,ES,Sudeste,pct_dif_funcional,funcoes_mentais,,1.4,%,Tabela 9,46
+UF,Rio de Janeiro,RJ,Sudeste,pct_com_deficiencia,total,,7.4,%,Tabela 3,35
+UF,Rio de Janeiro,RJ,Sudeste,pct_com_deficiencia,homens,,6.1,%,Tabela 3,35
+UF,Rio de Janeiro,RJ,Sudeste,pct_com_deficiencia,mulheres,,8.5,%,Tabela 3,35
+UF,Rio de Janeiro,RJ,Sudeste,pct_dif_funcional,enxergar,,4.2,%,Tabela 9,46
+UF,Rio de Janeiro,RJ,Sudeste,pct_dif_funcional,ouvir,,1.3,%,Tabela 9,46
+UF,Rio de Janeiro,RJ,Sudeste,pct_dif_funcional,andar,,2.8,%,Tabela 9,46
+UF,Rio de Janeiro,RJ,Sudeste,pct_dif_funcional,pegar_objetos,,1.5,%,Tabela 9,46
+UF,Rio de Janeiro,RJ,Sudeste,pct_dif_funcional,funcoes_mentais,,1.4,%,Tabela 9,46
+UF,São Paulo,SP,Sudeste,pct_com_deficiencia,total,,6.3,%,Tabela 3,35
+UF,São Paulo,SP,Sudeste,pct_com_deficiencia,homens,,5.5,%,Tabela 3,35
+UF,São Paulo,SP,Sudeste,pct_com_deficiencia,mulheres,,7.1,%,Tabela 3,35
+UF,São Paulo,SP,Sudeste,pct_dif_funcional,enxergar,,3.3,%,Tabela 9,46
+UF,São Paulo,SP,Sudeste,pct_dif_funcional,ouvir,,1.2,%,Tabela 9,46
+UF,São Paulo,SP,Sudeste,pct_dif_funcional,andar,,2.4,%,Tabela 9,46
+UF,São Paulo,SP,Sudeste,pct_dif_funcional,pegar_objetos,,1.3,%,Tabela 9,46
+UF,São Paulo,SP,Sudeste,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 9,46
+UF,Paraná,PR,Sul,pct_com_deficiencia,total,,6.4,%,Tabela 3,35
+UF,Paraná,PR,Sul,pct_com_deficiencia,homens,,5.8,%,Tabela 3,35
+UF,Paraná,PR,Sul,pct_com_deficiencia,mulheres,,7.0,%,Tabela 3,35
+UF,Paraná,PR,Sul,pct_dif_funcional,enxergar,,3.3,%,Tabela 9,46
+UF,Paraná,PR,Sul,pct_dif_funcional,ouvir,,1.2,%,Tabela 9,46
+UF,Paraná,PR,Sul,pct_dif_funcional,andar,,2.4,%,Tabela 9,46
+UF,Paraná,PR,Sul,pct_dif_funcional,pegar_objetos,,1.2,%,Tabela 9,46
+UF,Paraná,PR,Sul,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 9,46
+UF,Santa Catarina,SC,Sul,pct_com_deficiencia,total,,6.0,%,Tabela 3,35
+UF,Santa Catarina,SC,Sul,pct_com_deficiencia,homens,,5.3,%,Tabela 3,35
+UF,Santa Catarina,SC,Sul,pct_com_deficiencia,mulheres,,6.7,%,Tabela 3,35
+UF,Santa Catarina,SC,Sul,pct_dif_funcional,enxergar,,3.0,%,Tabela 9,46
+UF,Santa Catarina,SC,Sul,pct_dif_funcional,ouvir,,1.2,%,Tabela 9,46
+UF,Santa Catarina,SC,Sul,pct_dif_funcional,andar,,2.3,%,Tabela 9,46
+UF,Santa Catarina,SC,Sul,pct_dif_funcional,pegar_objetos,,1.2,%,Tabela 9,46
+UF,Santa Catarina,SC,Sul,pct_dif_funcional,funcoes_mentais,,1.0,%,Tabela 9,46
+UF,Rio Grande do Sul,RS,Sul,pct_com_deficiencia,total,,7.2,%,Tabela 3,35
+UF,Rio Grande do Sul,RS,Sul,pct_com_deficiencia,homens,,6.3,%,Tabela 3,35
+UF,Rio Grande do Sul,RS,Sul,pct_com_deficiencia,mulheres,,8.1,%,Tabela 3,35
+UF,Rio Grande do Sul,RS,Sul,pct_dif_funcional,enxergar,,3.6,%,Tabela 9,46
+UF,Rio Grande do Sul,RS,Sul,pct_dif_funcional,ouvir,,1.5,%,Tabela 9,46
+UF,Rio Grande do Sul,RS,Sul,pct_dif_funcional,andar,,2.8,%,Tabela 9,46
+UF,Rio Grande do Sul,RS,Sul,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 9,46
+UF,Rio Grande do Sul,RS,Sul,pct_dif_funcional,funcoes_mentais,,1.4,%,Tabela 9,46
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_com_deficiencia,total,,6.5,%,Tabela 3,35
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_com_deficiencia,homens,,5.9,%,Tabela 3,35
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_com_deficiencia,mulheres,,7.2,%,Tabela 3,35
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_dif_funcional,enxergar,,3.6,%,Tabela 9,46
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_dif_funcional,andar,,2.3,%,Tabela 9,46
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_dif_funcional,pegar_objetos,,1.2,%,Tabela 9,46
+UF,Mato Grosso do Sul,MS,Centro-Oeste,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 9,46
+UF,Mato Grosso,MT,Centro-Oeste,pct_com_deficiencia,total,,5.7,%,Tabela 3,35
+UF,Mato Grosso,MT,Centro-Oeste,pct_com_deficiencia,homens,,5.1,%,Tabela 3,35
+UF,Mato Grosso,MT,Centro-Oeste,pct_com_deficiencia,mulheres,,6.3,%,Tabela 3,35
+UF,Mato Grosso,MT,Centro-Oeste,pct_dif_funcional,enxergar,,3.3,%,Tabela 9,46
+UF,Mato Grosso,MT,Centro-Oeste,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Mato Grosso,MT,Centro-Oeste,pct_dif_funcional,andar,,1.9,%,Tabela 9,46
+UF,Mato Grosso,MT,Centro-Oeste,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 9,46
+UF,Mato Grosso,MT,Centro-Oeste,pct_dif_funcional,funcoes_mentais,,1.1,%,Tabela 9,46
+UF,Goiás,GO,Centro-Oeste,pct_com_deficiencia,total,,7.0,%,Tabela 3,35
+UF,Goiás,GO,Centro-Oeste,pct_com_deficiencia,homens,,6.2,%,Tabela 3,35
+UF,Goiás,GO,Centro-Oeste,pct_com_deficiencia,mulheres,,7.8,%,Tabela 3,35
+UF,Goiás,GO,Centro-Oeste,pct_dif_funcional,enxergar,,4.0,%,Tabela 9,46
+UF,Goiás,GO,Centro-Oeste,pct_dif_funcional,ouvir,,1.3,%,Tabela 9,46
+UF,Goiás,GO,Centro-Oeste,pct_dif_funcional,andar,,2.3,%,Tabela 9,46
+UF,Goiás,GO,Centro-Oeste,pct_dif_funcional,pegar_objetos,,1.3,%,Tabela 9,46
+UF,Goiás,GO,Centro-Oeste,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 9,46
+UF,Distrito Federal,DF,Centro-Oeste,pct_com_deficiencia,total,,6.1,%,Tabela 3,35
+UF,Distrito Federal,DF,Centro-Oeste,pct_com_deficiencia,homens,,5.3,%,Tabela 3,35
+UF,Distrito Federal,DF,Centro-Oeste,pct_com_deficiencia,mulheres,,6.9,%,Tabela 3,35
+UF,Distrito Federal,DF,Centro-Oeste,pct_dif_funcional,enxergar,,3.5,%,Tabela 9,46
+UF,Distrito Federal,DF,Centro-Oeste,pct_dif_funcional,ouvir,,1.1,%,Tabela 9,46
+UF,Distrito Federal,DF,Centro-Oeste,pct_dif_funcional,andar,,2.1,%,Tabela 9,46
+UF,Distrito Federal,DF,Centro-Oeste,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 9,46
+UF,Distrito Federal,DF,Centro-Oeste,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 9,46
+Brasil,Brasil,,Brasil,pop_2mais_mil,total,total,198349,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,total,com_deficiencia,14401,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,total,sem_deficiencia,183948,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,homens,total,96129,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,homens,com_deficiencia,6146,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,homens,sem_deficiencia,89983,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,mulheres,total,102220,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,mulheres,com_deficiencia,8254,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pop_2mais_mil,mulheres,sem_deficiencia,93965,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,total,total,16815,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,total,com_deficiencia,1198,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,total,sem_deficiencia,15616,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,homens,total,8388,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,homens,com_deficiencia,551,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,homens,sem_deficiencia,7838,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,mulheres,total,8426,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,mulheres,com_deficiencia,648,mil pessoas,Tabela 1,33
+Região,Norte,,Norte,pop_2mais_mil,mulheres,sem_deficiencia,7779,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,total,total,53295,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,total,com_deficiencia,4581,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,total,sem_deficiencia,48715,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,homens,total,25725,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,homens,com_deficiencia,1955,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,homens,sem_deficiencia,23771,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,mulheres,total,27570,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,mulheres,com_deficiencia,2626,mil pessoas,Tabela 1,33
+Região,Nordeste,,Nordeste,pop_2mais_mil,mulheres,sem_deficiencia,24944,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,total,total,83088,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,total,com_deficiencia,5658,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,total,sem_deficiencia,77430,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,homens,total,39972,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,homens,com_deficiencia,2357,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,homens,sem_deficiencia,37615,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,mulheres,total,43116,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,mulheres,com_deficiencia,3301,mil pessoas,Tabela 1,33
+Região,Sudeste,,Sudeste,pop_2mais_mil,mulheres,sem_deficiencia,39815,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,total,total,29274,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,total,com_deficiencia,1935,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,total,sem_deficiencia,27339,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,homens,total,14245,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,homens,com_deficiencia,835,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,homens,sem_deficiencia,13410,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,mulheres,total,15029,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,mulheres,com_deficiencia,1100,mil pessoas,Tabela 1,33
+Região,Sul,,Sul,pop_2mais_mil,mulheres,sem_deficiencia,13929,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,total,total,15877,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,total,com_deficiencia,1029,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,total,sem_deficiencia,14848,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,homens,total,7798,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,homens,com_deficiencia,449,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,homens,sem_deficiencia,7350,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,mulheres,total,8079,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,mulheres,com_deficiencia,580,mil pessoas,Tabela 1,33
+Região,Centro-Oeste,,Centro-Oeste,pop_2mais_mil,mulheres,sem_deficiencia,7498,mil pessoas,Tabela 1,33
+Brasil,Brasil,,Brasil,pct_com_deficiencia,total,,7.3,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pct_dif_funcional,enxergar,,4.0,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pct_dif_funcional,ouvir,,1.3,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pct_dif_funcional,andar,,2.6,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pct_dif_funcional,funcoes_mentais,,1.4,%,Tabela 8,45
+Região,Norte,,Norte,pct_com_deficiencia,total,,7.1,%,Tabela 8,45
+Região,Norte,,Norte,pct_dif_funcional,enxergar,,4.6,%,Tabela 8,45
+Região,Norte,,Norte,pct_dif_funcional,ouvir,,1.1,%,Tabela 8,45
+Região,Norte,,Norte,pct_dif_funcional,andar,,2.0,%,Tabela 8,45
+Região,Norte,,Norte,pct_dif_funcional,pegar_objetos,,1.1,%,Tabela 8,45
+Região,Norte,,Norte,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_com_deficiencia,total,,8.6,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_dif_funcional,enxergar,,4.8,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_dif_funcional,ouvir,,1.4,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_dif_funcional,andar,,3.0,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_dif_funcional,pegar_objetos,,1.6,%,Tabela 8,45
+Região,Nordeste,,Nordeste,pct_dif_funcional,funcoes_mentais,,1.6,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_com_deficiencia,total,,6.8,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_dif_funcional,enxergar,,3.6,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_dif_funcional,ouvir,,1.3,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_dif_funcional,andar,,2.6,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_dif_funcional,pegar_objetos,,1.4,%,Tabela 8,45
+Região,Sudeste,,Sudeste,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 8,45
+Região,Sul,,Sul,pct_com_deficiencia,total,,6.6,%,Tabela 8,45
+Região,Sul,,Sul,pct_dif_funcional,enxergar,,3.3,%,Tabela 8,45
+Região,Sul,,Sul,pct_dif_funcional,ouvir,,1.3,%,Tabela 8,45
+Região,Sul,,Sul,pct_dif_funcional,andar,,2.5,%,Tabela 8,45
+Região,Sul,,Sul,pct_dif_funcional,pegar_objetos,,1.3,%,Tabela 8,45
+Região,Sul,,Sul,pct_dif_funcional,funcoes_mentais,,1.3,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_com_deficiencia,total,,6.5,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_dif_funcional,enxergar,,3.7,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_dif_funcional,ouvir,,1.2,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_dif_funcional,andar,,2.2,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_dif_funcional,pegar_objetos,,1.2,%,Tabela 8,45
+Região,Centro-Oeste,,Centro-Oeste,pct_dif_funcional,funcoes_mentais,,1.2,%,Tabela 8,45
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,total,,14401,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,enxergar,,7942,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,ouvir,,2555,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,andar,,5172,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,pegar_objetos,,2728,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pessoas_dif_funcional_mil,funcoes_mentais,,2690,mil pessoas,Tabela 7,44
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,enxergar,nao_consegue,0.4,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,enxergar,muita,3.6,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,enxergar,alguma,14.0,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,enxergar,nenhuma,82.0,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,ouvir,nao_consegue,0.3,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,ouvir,muita,1.0,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,ouvir,alguma,3.7,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,ouvir,nenhuma,95.1,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,andar,nao_consegue,0.6,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,andar,muita,2.0,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,andar,alguma,4.3,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,andar,nenhuma,93.1,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,pegar_objetos,nao_consegue,0.4,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,pegar_objetos,muita,1.0,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,pegar_objetos,alguma,2.4,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,pegar_objetos,nenhuma,96.2,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,funcoes_mentais,nao_consegue,0.5,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,funcoes_mentais,muita,0.9,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,funcoes_mentais,alguma,1.9,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pct_grau_dificuldade,funcoes_mentais,nenhuma,96.8,%,Tabela 10,49
+Brasil,Brasil,,Brasil,pessoas_nao_consegue_mil,ouvir,,543.8,mil pessoas,Texto (Tipos de dificuldades funcionais),48
+Brasil,Brasil,,Brasil,pessoas_nao_consegue_mil,enxergar,,823,mil pessoas,Texto (Tipos de dificuldades funcionais),48
+Brasil,Brasil,,Brasil,taxa_analfabetismo,15mais,com_deficiencia,21.3,%,Texto (Analfabetismo),51
+Brasil,Brasil,,Brasil,taxa_analfabetismo,15mais,sem_deficiencia,5.2,%,Texto (Analfabetismo),51
+Brasil,Brasil,,Brasil,taxa_analfabetismo,60mais,com_deficiencia,27.9,%,Texto (Analfabetismo),52
+Brasil,Brasil,,Brasil,taxa_analfabetismo,60mais,sem_deficiencia,14.3,%,Texto (Analfabetismo),52
+Brasil,Brasil,,Brasil,taxa_analfabetismo,18a24,com_deficiencia,12.4,%,Texto (Analfabetismo),52
+Brasil,Brasil,,Brasil,taxa_analfabetismo,18a24,sem_deficiencia,1.0,%,Texto (Analfabetismo),52
+Região,Nordeste,,Nordeste,taxa_analfabetismo,15mais,com_deficiencia,32.3,%,Texto (Analfabetismo),53
+Região,Norte,,Norte,taxa_analfabetismo,15mais,com_deficiencia,23.0,%,Texto (Analfabetismo),53
+Região,Centro-Oeste,,Centro-Oeste,taxa_analfabetismo,15mais,com_deficiencia,18.5,%,Texto (Analfabetismo),53
+Região,Sudeste,,Sudeste,taxa_analfabetismo,15mais,com_deficiencia,15.0,%,Texto (Analfabetismo),53
+Região,Sul,,Sul,taxa_analfabetismo,15mais,com_deficiencia,14.5,%,Texto (Analfabetismo),53
+Região,Nordeste,,Nordeste,taxa_analfabetismo,15mais,sem_deficiencia,10.7,%,Texto (Analfabetismo),53
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,2a14,total,2.2,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,2a14,homens,2.4,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,2a14,mulheres,2.0,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,15a59,total,5.4,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,60a69,homens,13.0,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,60a69,mulheres,15.7,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,70mais,total,27.5,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,70mais,homens,24.9,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_com_deficiencia_por_idade,70mais,mulheres,29.5,%,Texto (Grupos de idade; Gráfico 5),41
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,15a29,com_deficiencia,10.7,%,Texto (Grupos de idade; Gráfico 3),39
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,15a29,sem_deficiencia,23.8,%,Texto (Grupos de idade; Gráfico 3),39
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,60a79,com_deficiencia,32.8,%,Texto (Grupos de idade; Gráfico 3),39
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,60a79,sem_deficiencia,12.5,%,Texto (Grupos de idade; Gráfico 3),39
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,80mais,com_deficiencia,12.6,%,Texto (Grupos de idade; Gráfico 3),39
+Brasil,Brasil,,Brasil,pct_distribuicao_por_idade,80mais,sem_deficiencia,1.5,%,Texto (Grupos de idade; Gráfico 3),39
